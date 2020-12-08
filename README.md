@@ -41,3 +41,24 @@ Here are some ideas to get you started:
   <img align="left" alt="patFish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=patFish&show_icons=true" />
 
 </details>
+<details>
+  <summary>:book: Reading List</summary>
+
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL29849756M-M.jpg" />](http://openlibrary.org/olid/OL29849756M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/id/87586-M.jpg" />](http://openlibrary.org/olid/OL3407465M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL24982481M-M.jpg" />](http://openlibrary.org/olid/OL24982481M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL27012664M-M.jpg" />](http://openlibrary.org/olid/OL27012664M)
+
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26222911M-M.jpg" />](http://openlibrary.org/olid/OL26222911M)
+
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26833682M-M.jpg" />](http://openlibrary.org/olid/OL26833682M)
+
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL28185034M-M.jpg" />](http://openlibrary.org/olid/OL28185034M)
+
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL25613003M-M.jpg" />](http://openlibrary.org/olid/OL25613003M)
+
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL25931127M-M.jpg" />](http://openlibrary.org/olid/OL25931127M)
+
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26673217M-M.jpg" />](http://openlibrary.org/olid/OL26673217M)
+
+</details>
