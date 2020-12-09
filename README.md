@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="patfish.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="fishn00b | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="patFish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="patFish | LinkedIn" width="22px" style="{}" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 
 [website]: https://patfish.github.io
-[linkedin]: www.linkedin.com/in/patfish
+[linkedin]: https://linkedin.com/in/patfish
 [twitter]: https://twitter.com/fishn00b
