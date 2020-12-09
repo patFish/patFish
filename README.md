@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">](https://github.com/topics/docker)
 [<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-Mtudio-code/visual-Studio-code.png" />]()
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-Studio-code/visual-Studio-code.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
@@ -44,21 +44,21 @@ Here are some ideas to get you started:
 <details>
   <summary>:book: Reading List</summary>
 
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL29849756M-M.jpg" />](http://openlibrary.org/olid/OL29849756M)
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/id/87586-M.jpg" />](http://openlibrary.org/olid/OL3407465M)
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL24982481M-M.jpg" />](http://openlibrary.org/olid/OL24982481M)
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL27012664M-M.jpg" />](http://openlibrary.org/olid/OL27012664M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL29849756M-S.jpg" />](http://openlibrary.org/olid/OL29849756M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/id/87586-S.jpg" />](http://openlibrary.org/olid/OL3407465M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL24982481M-S.jpg" />](http://openlibrary.org/olid/OL24982481M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL27012664M-S.jpg" />](http://openlibrary.org/olid/OL27012664M)
 
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26222911M-M.jpg" />](http://openlibrary.org/olid/OL26222911M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26222911M-S.jpg" />](http://openlibrary.org/olid/OL26222911M)
 
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26833682M-M.jpg" />](http://openlibrary.org/olid/OL26833682M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26833682M-S.jpg" />](http://openlibrary.org/olid/OL26833682M)
 
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL28185034M-M.jpg" />](http://openlibrary.org/olid/OL28185034M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL28185034M-S.jpg" />](http://openlibrary.org/olid/OL28185034M)
 
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL25613003M-M.jpg" />](http://openlibrary.org/olid/OL25613003M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL25613003M-S.jpg" />](http://openlibrary.org/olid/OL25613003M)
 
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL25931127M-M.jpg" />](http://openlibrary.org/olid/OL25931127M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL25931127M-S.jpg" />](http://openlibrary.org/olid/OL25931127M)
 
-[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26673217M-M.jpg" />](http://openlibrary.org/olid/OL26673217M)
+[<img align="left" alt="patFish's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26673217M-S.jpg" />](http://openlibrary.org/olid/OL26673217M)
 
 </details>
